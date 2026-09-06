@@ -19,3 +19,9 @@ You can close and reload at any point, backups are saved and you pick up where y
 When done, run "2 - Convert to SRT.py" to convert the synced_output.txt to a SRT file
 
 You can then upload the SRT file to YouTube or similar.
+
+Feel free to check out my flagship video generated with this tool to see the results!:
+https://www.youtube.com/watch?v=FEXRjDsvJdM
+
+Thanks for your support, pull requests accepted!
+(hopefully I have set that up correctly)
