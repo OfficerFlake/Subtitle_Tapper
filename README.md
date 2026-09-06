@@ -1,7 +1,10 @@
 This program is a pygame tool, vibe coded with Gemini.
 
-It takes a "txt" file of strings, representing desired subtitle cards to be shows on a video.
+It takes a "txt" file of strings, representing desired subtitle cards to be shown on a video.
 The input "txt" file has no timestamp information - just raw strings.
+
+You will need to install pygame -> "pip install pygame" from the command prompt!
+You will need to provide you own "audio.ogg" file in this folder also.
 
 When loading the tool with an accompanying "transcript.txt" and "audio.ogg" in the folder, follow the onscreen instructions
 to start tapping the lines in as the audio plays back.
