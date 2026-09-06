@@ -21,6 +21,7 @@ When done, run "2 - Convert to SRT.py" to convert the synced_output.txt to a SRT
 You can then upload the SRT file to YouTube or similar.
 
 Feel free to check out my flagship video generated with this tool to see the results!:
+![Nihon Ni Ikimashita (2025) - Thumbnail](https://img.youtube.com/vi/FEXRjDsvJdM/mqdefault.jpg)
 https://www.youtube.com/watch?v=FEXRjDsvJdM
 
 Thanks for your support, pull requests accepted!
