@@ -1,3 +1,7 @@
+![User Interface showing standard entered and synced lines](https://github.com/OfficerFlake/Subtitle_Tapper/blob/main/Screenshots/1.png)
+![User Interface showing "goto timecode" selector](https://github.com/OfficerFlake/Subtitle_Tapper/blob/main/Screenshots/2.png)
+![User Interface showing standard "missing timecode" information](https://github.com/OfficerFlake/Subtitle_Tapper/blob/main/Screenshots/3.png)
+
 This program is a pygame tool, vibe coded with Gemini.
 
 It takes a "txt" file of strings, representing desired subtitle cards to be shown on a video.
