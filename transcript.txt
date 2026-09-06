@@ -1,0 +1,20 @@
+
+NOT INCLUDED - "audio.ogg" - place this in the same folder as these files!
+This file will be used for synchronizing the timestamps!
+
+In this file - Type your transcript as you want it to appear
+Line by line
+Then use "1 - Tap Timestampes.py"
+to load a pygame UI
+that will allow you to tap
+the transcript in sync with the audio.
+
+Every time you close the program,
+synced_output.txt will be updated
+(and a backup saved).
+
+When done syncing all your lines,
+use "2 - Convert to SRT.py"
+to convert the synced_output.txt
+to a SRT, ready for use with YouTube
+or similar supporting platform.
